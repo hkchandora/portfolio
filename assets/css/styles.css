@@ -519,15 +519,15 @@ img {
 }
 
 .skills__html {
-  width: 90%;
+  width: 60%;
 }
 
 .skills__css {
-  width: 75%;
+  width: 60%;
 }
 
 .skills__js {
-  width: 70%;
+  width: 40%;
 }
 
 .skills__bs {
@@ -548,6 +548,22 @@ img {
 
 .skills__android {
   width: 90%;
+}
+
+.skills__ios {
+  width: 90%;
+}
+
+.skills__java {
+  width: 70%;
+}
+
+.skills__kotlin {
+  width: 60%;
+}
+
+.skills__swift {
+  width: 50%;
 }
 
 .skills__tru {
@@ -583,7 +599,43 @@ img {
 }
 
 .skills__py {
+  width: 70%;
+}
+
+.skills__payment {
   width: 90%;
+}
+
+.skills__penny {
+  width: 90%;
+}
+
+.skills__ckyc {
+  width: 80%;
+}
+
+.skills__nsdl {
+  width: 60%;
+}
+
+.skills__mycams {
+  width: 60%;
+}
+
+.skills__vapt {
+  width: 90%;
+}
+
+.skills__fcm {
+  width: 90%;
+}
+
+.skills__aa {
+  width: 80%;
+}
+
+.skills__flavor {
+  width: 95%;
 }
 
 .skills__ms {
@@ -635,10 +687,18 @@ img {
 }
 
 .skills__cpp {
-  width: 70%;
+  width: 60%;
 }
 
 .skills__msql {
+  width: 60%;
+}
+
+.skills__firebase {
+  width: 95%;
+}
+
+.skills__git {
   width: 95%;
 }
 
@@ -678,12 +738,8 @@ img {
   width: 70%;
 }
 
-.skills__git {
-  width: 50%;
-}
-
 .skills__gee {
-  width: 65%;
+  width: 60%;
 }
 
 .skills__close .skills__list {
