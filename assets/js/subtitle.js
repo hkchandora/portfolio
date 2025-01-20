@@ -68,17 +68,13 @@ class TextScramble {
   }
   
   const phrases = [
-    "Wantrapreneur",
-    "Technophile",
     "Developer",
     "Hodophile",
-    "Inquisitive",
+    "Technophile",
     "Philomoth",
-    "Altrustic",
-    "Sporty",
-    "Melmaniac",
     "Adventurer",
     "Minimalist",
+    "Wantrapreneur",  
   ];
   const el1 = document.querySelector(".animate__subtitle .home__subtitle");
   const el2 = document.querySelector(".animate__subtitle .footer__subtitle");
