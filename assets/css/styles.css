@@ -764,7 +764,7 @@ img {
 }
 
 .qualification__button {
-  font-size: var(--h6-font-size);
+  font-size: var(--h3-font-size);
   font-weight: var(--font-medium);
   cursor: pointer;
   margin: auto 0.6rem;
@@ -775,7 +775,7 @@ img {
 }
 
 .qualification__icon {
-  font-size: 1.2rem;
+  font-size: 1.8rem;
   margin-right: var(--mb-0-25);
 }
 
@@ -783,7 +783,6 @@ img {
   display: grid;
   grid-template-columns: 1fr max-content 1fr;
   column-gap: 2rem;
-  justify-items: center;
 }
 
 .qualification__title {
@@ -1205,11 +1204,6 @@ form button {
   .footer__container {
     grid-template-columns: repeat(2, 1fr);
   }
-  .qualificaton__sections {
-    display: grid;
-    grid-template-columns: 0.6fr;
-    justify-content: center;
-  }
   .photos__container {
     overflow: initial;
   }
@@ -1297,9 +1291,6 @@ form button {
   .qualification__button {
     margin: 0 var(--mb-1);
   }
-  .qualification__sections {
-    grid-template-columns: 0.5fr;
-  }
   .services__container {
     grid-template-columns: repeat(3, 218px);
     justify-content: center;
@@ -1362,7 +1353,7 @@ form button {
     border-radius: 0.5rem;
   }
   .qualification__button {
-    font-size: var(--h4-font-size);
+    font-size: var(--h3-font-size);
     margin: auto 1.6rem;
   }
 
